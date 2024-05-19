@@ -158,6 +158,13 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/mostrub">
+            <img src="https://avatars.githubusercontent.com/u/16252956?v=4" width="80;" alt="mostrub"/>
+            <br />
+            <sub><b>Lolohannsen</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/0xnbk">
             <img src="https://avatars.githubusercontent.com/u/355844?v=4" width="80;" alt="0xnbk"/>
             <br />
@@ -191,15 +198,15 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
             <br />
             <sub><b>Rusty-snake</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/marjamis">
             <img src="https://avatars.githubusercontent.com/u/10202014?v=4" width="80;" alt="marjamis"/>
             <br />
             <sub><b>Marjamis</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/ansuz">
             <img src="https://avatars.githubusercontent.com/u/1264398?v=4" width="80;" alt="ansuz"/>
@@ -234,27 +241,20 @@ If you've found this repository helpful, consider sponsoring me on GitHub if you
             <br />
             <sub><b>Balazs Gyurak</b></sub>
         </a>
-    </td>
+    </td></tr>
+<tr>
     <td align="center">
         <a href="https://github.com/dmbaturin">
             <img src="https://avatars.githubusercontent.com/u/482212?v=4" width="80;" alt="dmbaturin"/>
             <br />
             <sub><b>Daniil Baturin</b></sub>
         </a>
-    </td></tr>
-<tr>
+    </td>
     <td align="center">
         <a href="https://github.com/mwleeds">
             <img src="https://avatars.githubusercontent.com/u/7833263?v=4" width="80;" alt="mwleeds"/>
             <br />
             <sub><b>Phaedrus Leeds</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/mostrub">
-            <img src="https://avatars.githubusercontent.com/u/16252956?v=4" width="80;" alt="mostrub"/>
-            <br />
-            <sub><b>Lolohannsen</b></sub>
         </a>
     </td>
     <td align="center">
